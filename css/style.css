@@ -1,0 +1,25 @@
+.subject {
+  color: #0fbd27;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 25px;
+}
+.title-bar {
+  color: dodgerblue;
+  font-size: 40px;
+  text-align: center;
+  line-height: 60px;
+  border-bottom: 1px solid dodgerblue;
+}
+
+.post-title {
+  color: orangered;
+}
+
+.img-block {
+  background: greenyellow;
+}
+
+.title {
+  background: sandybrown;
+}
